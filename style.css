@@ -36,9 +36,6 @@ body{
            color: rgb(200, 149, 149);
             font-size: 17px; 
         }
-        #i3{
-            
-        }
         .wtsc{
             color: rgb(108, 74, 74);
             background-color: rgb(221, 190, 190);
@@ -79,5 +76,11 @@ body{
         #list{
             color: rgb(200, 149, 149);
              font-size: 20px;
+        }
+ #bb{
+            text-align:right;
+            background-color: rgb(200, 149, 149);
+             font-size: 50px;
+             color: rgb(237, 237, 237);
         }
 
