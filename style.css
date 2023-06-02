@@ -5,24 +5,11 @@ body{
             background-color: rgb(237, 237, 237);
             color: rgb(108, 74, 74);
             font-size: 60px;
-        }
-        #i3{
-            
-        }
-        .wtsc{
-            color: rgb(108, 74, 74);
-            background-color: rgb(221, 190, 190);
-            font-size: 20px;
-            text-decoration:underline;
-        }
+}
         h2{
             color: rgb(237, 237, 237);
             font-size: 35px;
-        }
-        .info{
-            color: rgb(200, 149, 149);
-            font-size: 17px;
-        }
+}
         .m2{
              text-align:center;
              color: rgb(237, 237, 237);
@@ -35,17 +22,7 @@ body{
         .must{
            color: rgb(200, 149, 149);
             font-size: 17px; 
-        }
-        .wtsc{
-            color: rgb(108, 74, 74);
-            background-color: rgb(221, 190, 190);
-            font-size: 20px;
-            text-decoration:underline;
-        }
-        .info{
-            color: rgb(200, 149, 149);
-            font-size: 17px;
-        }
+}
         h3{
             color: rgb(237, 237, 237);
             font-size: 30px;
@@ -60,27 +37,4 @@ body{
             font-size: 20px;
             text-decoration:underline;
         }
-       .ab{
-             color: rgb(200, 149, 149);
-             font-size: 17px;
-        }
-        .el{
-            color: rgb(221, 190, 190);
-            text-align:right;
-            font-size: 15px;
-        }
-        h2{
-            color: rgb(237, 237, 237);
-            font-size: 35px;
-        }
-        #list{
-            color: rgb(200, 149, 149);
-             font-size: 20px;
-        }
- #bb{
-            text-align:right;
-            background-color: rgb(200, 149, 149);
-             font-size: 50px;
-             color: rgb(237, 237, 237);
-        }
-
+       
