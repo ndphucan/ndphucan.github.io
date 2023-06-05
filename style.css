@@ -1,40 +1,89 @@
-body{
+ body{
         background-color: rgb(108, 74, 74);
     }
         h1{
             background-color: rgb(237, 237, 237);
             color: rgb(108, 74, 74);
-            font-size: 60px;
-}
-        h2{
-            color: rgb(237, 237, 237);
-            font-size: 35px;
-}
-        .m2{
-             text-align:center;
-             color: rgb(237, 237, 237);
-            font-size: 15px;
+            font-size: 70px;
         }
-        h3{
-            color: rgb(237, 237, 237);
-            font-size: 30px;
-        }
-        .must{
-           color: rgb(200, 149, 149);
-            font-size: 17px; 
-}
-        h3{
-            color: rgb(237, 237, 237);
-            font-size: 30px;
-        }
-        .must{
-           color: rgb(200, 149, 149);
-            font-size: 17px; 
-        }
-       .wtt{
+        .welcome{
             color: rgb(108, 74, 74);
             background-color: rgb(221, 190, 190);
-            font-size: 20px;
+            font-size: 30px;
             text-decoration:underline;
         }
-       
+        h2{
+            color: rgb(237, 237, 237);
+            font-size: 45px;
+        }
+        .about-us{
+            color: rgb(200, 149, 149);
+            font-size: 27px;
+        }
+       #list{
+       color: rgb(237, 237, 237);
+            font-size: 40px;
+       }
+         #some{
+       color: rgb(237, 237, 237);
+            font-size: 40px;
+       }
+       .the{
+       color: rgb(237, 237, 237);
+            font-size: 42px;
+       }
+       .m2{
+             text-align:center;
+             color: rgb(237, 237, 237);
+            font-size: 25px;
+        }
+         #bb{
+            text-align:right;
+            background-color: rgb(200, 149, 149);
+             font-size: 60px;
+             color: rgb(237, 237, 237);
+        }
+         #li{
+            color: rgb(200, 149, 149);
+             font-size: 30px;
+        }
+        img.i2{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        img.i4{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+.info{
+            color: rgb(200, 149, 149);
+            font-size: 27px;
+        }
+.must{
+           color: rgb(200, 149, 149);
+            font-size: 27px; 
+        }
+.ab{
+             color: rgb(200, 149, 149);
+             font-size: 30px;
+            text-align:center;
+        }
+        .el{
+            color: rgb(221, 190, 190);
+            text-align:right;
+            font-size: 27px;
+        }
+        .tech{
+       color: rgb(237, 237, 237);
+            font-size: 30px;
+       }
+        .techplan{
+       color: rgb(237, 237, 237);
+            font-size: 30px;
+       }
+        .r{
+       color: rgb(237, 237, 237);
+            font-size: 30px;
+       }
