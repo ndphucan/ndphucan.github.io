@@ -29,6 +29,10 @@
        color: rgb(237, 237, 237);
             font-size: 40px;
        }
+#parent{
+       color: rgb(237, 237, 237);
+            font-size: 42px;
+       }
        .the{
        color: rgb(237, 237, 237);
             font-size: 42px;
@@ -38,10 +42,10 @@
              color: rgb(237, 237, 237);
             font-size: 25px;
         }
-         #bb{
-            text-align:right;
+         .right{
             background-color: rgb(200, 149, 149);
-             font-size: 60px;
+            float: right;
+            font-size: 60px;
              color: rgb(237, 237, 237);
         }
          #li{
@@ -88,3 +92,7 @@
        color: rgb(237, 237, 237);
             font-size: 30px;
        }
+.parents{
+            color: rgb(200, 149, 149);
+            font-size: 27px;
+        }
