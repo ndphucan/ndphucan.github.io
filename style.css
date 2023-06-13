@@ -96,3 +96,13 @@
             color: rgb(200, 149, 149);
             font-size: 27px;
         }
+table {
+            text-align:center;
+            width: 770px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 25px;
+            color: rgb(200, 149, 149);
+            border: dashed;
+            border-color: rgb(221, 190, 190);
+        }
