@@ -1,11 +1,11 @@
- body{
+body{
         background-color: rgb(108, 74, 74);
     }
         h1{
             background-color: rgb(237, 237, 237);
             color: rgb(108, 74, 74);
             font-size: 60px;
-         text-align:center;
+            text-align:center;
         }
         .welcome{
             color: rgb(108, 74, 74);
@@ -29,7 +29,7 @@
        color: rgb(237, 237, 237);
             font-size: 40px;
        }
-#parent{
+        #parent{
        color: rgb(237, 237, 237);
             font-size: 42px;
        }
@@ -41,12 +41,6 @@
              text-align:center;
              color: rgb(237, 237, 237);
             font-size: 25px;
-        }
-         .right{
-            background-color: rgb(200, 149, 149);
-            float: right;
-            font-size: 60px;
-             color: rgb(237, 237, 237);
         }
          #li{
             color: rgb(200, 149, 149);
@@ -62,11 +56,21 @@
             margin-left: auto;
             margin-right: auto;
         }
+        .right{
+            background-color: rgb(200, 149, 149);
+            float: right;
+            font-size: 60px;
+             color: rgb(237, 237, 237);
+        }
 .info{
             color: rgb(200, 149, 149);
             font-size: 27px;
         }
-.must{
+h3{
+            color: rgb(237, 237, 237);
+            font-size: 40px;
+        }
+        .must{
            color: rgb(200, 149, 149);
             font-size: 27px; 
         }
@@ -105,4 +109,25 @@ table {
             color: rgb(200, 149, 149);
             border: dashed;
             border-color: rgb(221, 190, 190);
+        }
+        .left{
+            float: left;
+            width: 22%;
+        }
+        .right{
+            float: right;
+            width: 75%;
+        }
+        .cot1{
+            background-color: rgb(237, 237, 237);
+            color: rgb(108, 74, 74);
+            font-size: 30px;
+        }
+        .cot2{
+           background-color: rgb(108, 74, 74);
+            color: rgb(200, 149, 149);
+             font-size: 24px;
+        }
+        .between{
+            display: inline-block;
         }
